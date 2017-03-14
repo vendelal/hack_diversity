@@ -3659,7 +3659,7 @@ div[data-text-color="light"] .nectar-button.extra-color-gradient-1 .hover, div[d
 }
 
 .full-width-section .light .nectar-button:not(.see-through):not(.see-through-2):not(.see-through-3) {
-	opacity: 0.9;
+	opacity: 1;
 }
 
 .text_on_hover.product .add_to_cart_button, .text_on_hover.product a.added_to_cart {
